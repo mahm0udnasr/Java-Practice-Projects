@@ -10,5 +10,6 @@ class Main {
             Thread.sleep(1000);
         }
         System.out.println("HAPPY EID!");
+        scanner.close();
     }
 }
